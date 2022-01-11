@@ -1,5 +1,5 @@
 # get-services
-Script to get the services for a GCP organization using gcloud and bash commands.
+Script to get the services for each project within a GCP organization using gcloud and bash commands.
 
 Can be run with 'python get-services.py'.
 
